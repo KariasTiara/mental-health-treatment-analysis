@@ -16,6 +16,7 @@ This project analyzes factors linked with mental health treatment-seeking behavi
 - Verified significant analysis columns contained valid responses
 
 ## Key Analyses
+
 ### 1. Growing Stress vs Treatment
 Analyzed whether increasing stress levels were linked with mental health treatment-seeking behavior.
 
