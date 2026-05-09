@@ -1,7 +1,7 @@
 # Mental Health Treatment Analysis
 
 ## Project Objective
-This project analyzes factors associated with mental health treatment-seeking behavior using survey data from Kaggle.
+This project analyzes factors linked with mental health treatment-seeking behavior using survey data from Kaggle.
 
 ## Tools Used
 - Excel
@@ -13,22 +13,22 @@ This project analyzes factors associated with mental health treatment-seeking be
 ## Data Cleaning Process
 - Removed 2,313 duplicate records
 - Checked key variables for missing values
-- Verified important analysis columns contained valid responses
+- Verified significant analysis columns contained valid responses
 
 ## Key Analyses
 ### 1. Growing Stress vs Treatment
-Analyzed whether increasing stress levels were associated with mental health treatment-seeking behavior.
+Analyzed whether increasing stress levels were linked with mental health treatment-seeking behavior.
 
 ### 2. Mood Swings vs Treatment
-Compared mood swing categories against treatment-seeking behavior patterns.
+Evaluated and compared mood swing categories against treatment-seeking behavior patterns.
 
 ### 3. Family History vs Treatment
 Analyzed whether individuals with a family history of mental illness were more likely to seek treatment.
 
 ## Key Findings
-- Individuals reporting growing stress showed higher treatment-seeking behavior.
-- Mood swing categories showed relatively similar treatment-seeking patterns.
-- Individuals with a family history of mental illness were significantly more likely to seek treatment.
+- Individuals disclosing growing stress showed higher treatment-seeking behavior.
+- Mood swing categories showed moderately resembling treatment-seeking patterns.
+- Individuals with a family history of mental illness were substantially more likely to seek treatment.
 
 ## Files Included
 - Excel workbook with PivotTables and analysis
