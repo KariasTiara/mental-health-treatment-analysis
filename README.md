@@ -39,3 +39,10 @@ Analyzed whether individuals with a family history of mental illness were more l
 
 ## Conclusion
 This project demonstrates beginner-level data analysis skills using Excel, PivotTables, data cleaning techniques, and visualization methods to explore mental health treatment-seeking behavior.
+
+## Sample Visualization
+
+### Family History vs Mental Health Treatment
+
+![Family History Chart](family_history_chart.png)
+
