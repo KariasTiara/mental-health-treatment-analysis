@@ -44,8 +44,7 @@ This project demonstrates beginner-level data analysis skills using Excel, Pivot
 
 ### Family History vs Mental Health Treatment
 
-![Family History Chart](Family%20History%20vs%20Mental%20Health%20Treatment.png)
-
+![Family History Treatment Percentages](Family_History_Treatment_Percentages.png)
 
 
 ## Dataset Source and Attribution
