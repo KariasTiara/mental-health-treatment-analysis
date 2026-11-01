@@ -46,3 +46,15 @@ This project demonstrates beginner-level data analysis skills using Excel, Pivot
 
 ![Family History Chart](family_history_chart.png)
 
+
+
+## Dataset Source and Attribution
+
+**Dataset:** Mental Health Dataset
+**Creator:** bhavikjikadara (Kaggle)
+**Source:** https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+**Modifications:** Cleaned the dataset in Microsoft Excel, removed 2,313 duplicate records, created PivotTables, calculated treatment percentages, and developed visualizations to explore mental health treatment-seeking patterns.
+
+This is an independent educational portfolio project and is not endorsed by the original dataset creator.
